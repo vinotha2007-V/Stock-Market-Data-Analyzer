@@ -1,0 +1,24 @@
+stock-market-data-analyzer/
+│
+├── data/
+│   └── stock_data.csv
+│
+├── notebooks/
+│   └── stock_analysis.ipynb
+│
+├── src/
+│   ├── fetch_data.py
+│   ├── indicators.py
+│   ├── visualization.py
+│   ├── prediction.py
+│   └── utils.py
+│
+├── dashboard/
+│   └── app.py
+│
+├── reports/
+│   └── analysis_report.pdf
+│
+├── requirements.txt
+├── README.md
+└── main.py
